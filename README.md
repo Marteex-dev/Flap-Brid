@@ -12,6 +12,6 @@ Para instalar o `pygame`, certifique-se de ter um ambiente virtual (venv) config
 
 ```bash
 pip install pygame
-
+```
 
 ![image](https://github.com/user-attachments/assets/dd2d1703-22b3-40df-8f83-0e4235530eec)
